@@ -13,4 +13,8 @@ Partie 2
 1) Ingestion : L'ingestion est réalisée à l'aide de amazon kinesis data firehose
 2) Stockage : Le stockage par kinesis sata analytics
 3) Transformation : La transformation est réalisée par amazon kinesis data stream
-4) Exposition : Amazon cloud front
+4) Exposition : Fichier dans un bucket s3
+
+cf schema 
+
+Partie 3 
