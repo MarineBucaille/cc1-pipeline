@@ -18,3 +18,9 @@ Partie 2
 cf schema 
 
 Partie 3 
+1)
+2)
+3)
+4)kbjk
+5)Il y a un délai car la version gratuite d'aws ne permet que de créer un fichier toutes les 5min
+6) La variable e-mail sert à savoir qui a lancer l'exécution
