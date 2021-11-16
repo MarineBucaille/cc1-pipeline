@@ -6,7 +6,7 @@ Partie 1
 3) On test le pipeline avec les commande terraform init -> terraform plan -> terraform apply enfin terraform destroy pour tout détruire. On videra le bucket au préalable.
 4) L'application sert à récupérer tous les prix des actionsz ibm et puis à trier pour ne garder que celles sont le prix va être supérieur à 50.
 5) La partie user data sert à installer les bibliothèques python nécessaires à l'exécution du script que tous les users n'ont pas forcément sur leurs machines
-6) Kinesis sert à gérer les données envoyées par notre scripte python. 
+6) Kinesis sert à gérer les données envoyées par notre scripte python, donc récupération, stockage, tri, créattion d'un fichier pour l'exposition. cf partie 2.
 
 
 Partie 2
