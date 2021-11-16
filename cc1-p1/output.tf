@@ -33,7 +33,3 @@ output "ec2_vm_hostname" {
   value = aws_instance.ec2_vm.public_dns
 }
 
-output "data_stream_arn" {
-  description = "data stream arn"
-  value       = aws_kinesis_stream.kinesis_input_stream.arn
-}
